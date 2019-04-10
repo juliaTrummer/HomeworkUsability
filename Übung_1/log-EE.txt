@@ -1,0 +1,53 @@
+﻿Evaluator: Julia Trummer
+Alter: 20
+Geschlecht: weiblich
+Gerät: One Plus 3T
+Betriebssystem und Version: Android 8.0.0
+Webbrowser und Version: Chrome
+Ad Blocker: Privacy Badger 1.0.6
+Internetverbindung Typ: UPC Take-IT, xdsl
+Internetverbindung Download Geschwindigkeit: 16 mbps
+Bildschirmgröße: 19″
+Bildschirmauflösung: 1280×1024
+Browserauflösung: 1280×1024
+Datum der Evaluierung: 2017-03-28
+Uhrzeit der Evaluierung: 09:00-10:00
+
+
+Positive Beobachtungen
+----------------------
+
+o Professionelle Fotos
+
+  Jeder Blumenstrauß ist professional fotografiert worden.
+
+  Screenshot(s):  p-hr-schoene-fotos.jpg
+  Video clip:
+
+  Wie reproduzierbar:  Liste/Details → Blumen
+
+
+o usw.
+
+
+
+Probleme
+--------
+
+o Daten aus Formular gehen verloren
+
+  Nachdem man Felder im Formular ausgefüllt hat, wenn
+  man die Terms and Conditions liest, sind nachher
+  alle eingetragen Daten wieder weg!!
+
+  Screenshot(s):  
+  Video clip:     n-hr-formular-daten-weg.mp4
+
+  Heuristik:  Umkehrbare Aktionen
+
+  Wie reproduzierbar:  Order Form → link "Terms and Conditions"
+
+o usw.
+
+
+
